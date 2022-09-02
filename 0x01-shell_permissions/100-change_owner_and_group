@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -m vincent ./staff
+sudo -u vincent ./staff
