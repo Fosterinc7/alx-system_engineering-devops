@@ -1,2 +1,2 @@
-#!/bin/bang
+#!/bin/bash
 chmod a+x ./hello
