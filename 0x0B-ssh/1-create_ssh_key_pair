@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Create the private key
+ssh-keygen -t rsa -b 4096 -f school -N betty
+
+# Print the fingerprint of the public key
+echo "Public key fingerprint:"
+ssh-keygen -lf school.pub
+
