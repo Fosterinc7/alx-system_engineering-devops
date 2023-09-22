@@ -1,4 +1,4 @@
-sylvain@ubuntu$ ssh -v ubuntu@54.157.162.15
+sylvain@ubuntu$  ssh -v ubuntu@100.25.14.65
 
 OpenSSH_6.6.1, OpenSSL 1.0.1f 6 Jan 2014
 debug1: Reading configuration data /etc/ssh/ssh_config
