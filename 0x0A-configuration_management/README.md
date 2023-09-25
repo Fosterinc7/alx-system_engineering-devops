@@ -159,3 +159,6 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x0A-configuration_management
 File: 2-execute_a_command.pp
+
+command lines
+
